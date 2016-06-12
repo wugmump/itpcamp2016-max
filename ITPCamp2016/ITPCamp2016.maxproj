@@ -2,7 +2,7 @@
 	"name" : "ITPCamp2016",
 	"version" : 1,
 	"creationdate" : -746382341,
-	"modificationdate" : -746382030,
+	"modificationdate" : -746380879,
 	"viewrect" : [ 43.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"2- jitter 101.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
