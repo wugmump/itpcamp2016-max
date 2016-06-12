@@ -2,7 +2,7 @@
 	"name" : "ITPCamp2016",
 	"version" : 1,
 	"creationdate" : -746382341,
-	"modificationdate" : -746377387,
+	"modificationdate" : -746371789,
 	"viewrect" : [ 43.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -29,6 +29,36 @@
 			"4- gl101.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
+			}
+,
+			"mylittlepatch.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/itpcamp2016-max/ITPCamp2016/patchers",
+					"projectrelativepath" : "./patchers"
+				}
+
+			}
+,
+			"5- msp101.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/itpcamp2016-max/ITPCamp2016/patchers",
+					"projectrelativepath" : "./patchers"
+				}
+
+			}
+,
+			"6- msp-into-jit.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/itpcamp2016-max/ITPCamp2016/patchers",
+					"projectrelativepath" : "./patchers"
+				}
+
 			}
 
 		}

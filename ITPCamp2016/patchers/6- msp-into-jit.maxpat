@@ -57,7 +57,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "float" ],
 					"patching_rect" : [ 505.0, 337.0, 26.0, 22.0 ],
-					"presentation_rect" : [ 503.0, 334.0, 0.0, 0.0 ],
 					"style" : "",
 					"text" : "sin"
 				}
@@ -468,7 +467,6 @@
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
 					"patching_rect" : [ 350.333313, 427.333344, 50.0, 22.0 ],
-					"presentation_rect" : [ 632.0, 380.333344, 0.0, 0.0 ],
 					"style" : ""
 				}
 
