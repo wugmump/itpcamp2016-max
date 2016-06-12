@@ -2,7 +2,7 @@
 	"name" : "ITPCamp2016",
 	"version" : 1,
 	"creationdate" : -746382341,
-	"modificationdate" : -746371789,
+	"modificationdate" : -746369095,
 	"viewrect" : [ 43.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -60,6 +60,20 @@
 				}
 
 			}
+,
+			"7- meshes.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/itpcamp2016-max/ITPCamp2016/patchers",
+					"projectrelativepath" : "./patchers"
+				}
+
+			}
+
+		}
+,
+		"externals" : 		{
 
 		}
 
