@@ -2,7 +2,7 @@
 	"name" : "ITPCamp2016",
 	"version" : 1,
 	"creationdate" : -746382341,
-	"modificationdate" : -746379007,
+	"modificationdate" : -746377387,
 	"viewrect" : [ 43.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -22,6 +22,11 @@
 			}
 ,
 			"3- composting.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"4- gl101.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
 			}
