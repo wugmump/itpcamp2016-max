@@ -2,7 +2,7 @@
 	"name" : "ITPCamp2016",
 	"version" : 1,
 	"creationdate" : -746382341,
-	"modificationdate" : -746369095,
+	"modificationdate" : -745929522,
 	"viewrect" : [ 43.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -14,6 +14,16 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"10-frame differencing.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"9- bg subtraction.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"2- jitter 101.maxpat" : 			{
@@ -70,10 +80,19 @@
 				}
 
 			}
+,
+			"8- color tracking.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
 
 		}
 ,
 		"externals" : 		{
+
+		}
+,
+		"other" : 		{
 
 		}
 
