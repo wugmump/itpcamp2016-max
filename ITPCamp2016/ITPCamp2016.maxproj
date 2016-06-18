@@ -2,7 +2,7 @@
 	"name" : "ITPCamp2016",
 	"version" : 1,
 	"creationdate" : -746382341,
-	"modificationdate" : -745928354,
+	"modificationdate" : -745925641,
 	"viewrect" : [ 43.0, 45.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -91,9 +91,24 @@
 
 			}
 ,
-			"11- sound from motion.maxpat" : 			{
+			"13- buffering movie files.maxpat" : 			{
 				"kind" : "patcher",
 				"local" : 1
+			}
+,
+			"12- buffering 101.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
+			}
+,
+			"11- sound from motion.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1,
+				"singleton" : 				{
+					"bootpath" : "~/Documents/itpcamp2016-max/ITPCamp2016/patchers",
+					"projectrelativepath" : "./patchers"
+				}
+
 			}
 
 		}
